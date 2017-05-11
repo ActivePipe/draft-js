@@ -28,6 +28,7 @@ var instanceKey = 0;
  * Temporary utility for generating the warnings
  */
 function logWarning(oldMethodCall, newMethodCall) {
+/*
   console.warn(
     'WARNING: '
     + oldMethodCall
@@ -35,6 +36,7 @@ function logWarning(oldMethodCall, newMethodCall) {
     + newMethodCall
     + '" instead.',
   );
+*/
 }
 
 export type DraftEntityMapObject = {
