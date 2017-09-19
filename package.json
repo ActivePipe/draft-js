@@ -1,7 +1,7 @@
 {
   "name": "@activepipe/draft-js",
   "description": "A React framework for building text editors.",
-  "version": "0.10.2",
+  "version": "0.10.3-ap.1",
   "keywords": [
     "draftjs",
     "editor",
